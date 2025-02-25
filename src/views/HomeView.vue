@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import RoleList from '../components/RoleList.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <RoleList />
   </main>
 </template>
